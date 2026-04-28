@@ -1,0 +1,53 @@
+{
+  "ignored_folders": [
+    "System Volume Information",
+    "$RECYCLE.BIN",
+    "Windows",
+    ".git",
+    "__pycache__",
+    "node_modules",
+    ".vscode",
+    ".idea",
+    "dist",
+    "build",
+    ".next",
+    "venv",
+    "env",
+    ".env",
+    "logs"
+  ],
+  "ignored_files": [
+    ".DS_Store",
+    "Thumbs.db",
+    "desktop.ini",
+    ".gitkeep"
+  ],
+  "ignored_extensions": [
+    ".pyc",
+    ".pyo",
+    ".exe",
+    ".dll",
+    ".so",
+    ".o",
+    ".class"
+  ],
+  "image_extensions": [
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".gif",
+    ".bmp",
+    ".tiff",
+    ".svg",
+    ".webp",
+    ".ico"
+  ],
+  "exceptions": {
+    "folders": [],
+    "files": [],
+    "extensions": []
+  },
+  "max_depth": -1,
+  "show_hidden_files": false,
+  "log_format": "log_{date}_{root}.txt"
+}

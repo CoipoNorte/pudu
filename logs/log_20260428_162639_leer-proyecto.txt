@@ -1,0 +1,27 @@
+══════════════════════════════════════════════════
+  Proyecto : leer-proyecto
+  Ruta     : C:/Users/CoipoNorte/Desktop/leer-proyecto
+  Fecha    : 2026-04-28 16:26:39
+══════════════════════════════════════════════════
+
+leer-proyecto/
+├── 📁 assets/
+├── 📁 config/
+│   └── 📋 settings.json
+├── 📁 core/
+│   ├── 🐍 __init__.py
+│   ├── 🐍 config_manager.py
+│   ├── 🐍 file_manager.py
+│   └── 🐍 scanner.py
+├── 📁 ui/
+│   ├── 🐍 __init__.py
+│   ├── 🐍 main_window.py
+│   ├── 🐍 styles.py
+│   └── 🐍 widgets.py
+├── 📖 README.md
+├── 🐍 main.py
+└── 📄 requirements.txt
+
+══════════════════════════════════════════════════
+  Generado por File Structure Reader
+══════════════════════════════════════════════════

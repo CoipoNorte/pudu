@@ -1,0 +1,867 @@
+══════════════════════════════════════════════════
+  Proyecto : Archivos Por Ver
+  Ruta     : C:/Users/CoipoNorte/Desktop/Archivos Por Ver
+  Fecha    : 2026-04-28 16:36:37
+══════════════════════════════════════════════════
+
+Archivos Por Ver/
+├── 📁 LOGOS UNIVERSIDAD/
+│   ├── 📁 Logo DICI ICCI nov19/
+│   │   ├── 📁 archivos editables/
+│   │   │   └── 📄 logo ingenieria.ai
+│   │   ├── 📁 logo png/
+│   │   │   ├── 🖼️ logo blanco y color.png
+│   │   │   ├── 🖼️ logo blanco.png
+│   │   │   ├── 🖼️ logo gris.png
+│   │   │   └── 🖼️ logo negro y color.png
+│   │   └── 📁 logo svg/
+│   │       ├── 🖼️ logo blanco color.svg
+│   │       ├── 🖼️ logo blanco.svg
+│   │       ├── 🖼️ logo gris.svg
+│   │       └── 🖼️ logo negro color.svg
+│   ├── 📁 Logo FI/
+│   │   ├── 📕 Facultad de Ingeneria_UTA.pdf
+│   │   ├── 📄 Leeme.txt
+│   │   ├── 🖼️ logo FI_UTA6azul_ambos.png
+│   │   ├── 🖼️ logo FI_UTA6azul_ambos.svg
+│   │   ├── 🖼️ logo FI_UTA7faz_ambos.png
+│   │   ├── 🖼️ logo FI_UTA7faz_ambos.svg
+│   │   ├── 🖼️ logo FI_UTA8ambos_c.png
+│   │   ├── 🖼️ logo FI_UTA8ambos_c.svg
+│   │   ├── 🖼️ logo FI_UTA_1c.png
+│   │   ├── 🖼️ logo FI_UTA_1c.svg
+│   │   ├── 🖼️ logo FI_UTA_2n.png
+│   │   ├── 🖼️ logo FI_UTA_2n.svg
+│   │   ├── 🖼️ logo FI_UTA_3az.png
+│   │   ├── 🖼️ logo FI_UTA_3az.svg
+│   │   ├── 🖼️ logo FI_UTA_4bfazul.png
+│   │   ├── 🖼️ logo FI_UTA_4bfazul.svg
+│   │   ├── 🖼️ logo FI_UTA_5bfnegro.png
+│   │   └── 🖼️ logo FI_UTA_5bfnegro.svg
+│   ├── 📁 Normas Graficas UTA. Dec.760.16/
+│   │   ├── 📕 DEC EX 00 760 16 MANUAL NORMAS GRAFICAS UTA 2016 .pdf
+│   │   ├── 📄 UTA_IQQ.ai
+│   │   ├── 🖼️ UTA_IQQ.png
+│   │   ├── 📄 uta_horizontal.ai
+│   │   ├── 🖼️ uta_horizontal.png
+│   │   ├── 🖼️ uta_linea blanco.png
+│   │   ├── 📄 uta_linea.ai
+│   │   ├── 🖼️ uta_linea.png
+│   │   ├── 📄 uta_vertical.ai
+│   │   └── 🖼️ uta_vertical.png
+│   ├── 🖼️ Imagen1.png
+│   ├── 📄 Nuevo Presentación de Microsoft PowerPoint.pptx
+│   ├── 🖼️ logo FI_UTA_1c.png
+│   ├── 🖼️ logo blanco y color.png
+│   └── 🖼️ uta_horizontal.png
+├── 📁 MS55SM/
+│   ├── 📄 Mr. Robot 1x01.mkv
+│   ├── 📄 Mr. Robot 1x02.mkv
+│   ├── 📄 Mr. Robot 1x03.mkv
+│   ├── 📄 Mr. Robot 1x04.mkv
+│   ├── 📄 Mr. Robot 1x05.mkv
+│   ├── 📄 Mr. Robot 1x06.mkv
+│   ├── 📄 Mr. Robot 1x07.mkv
+│   ├── 📄 Mr. Robot 1x08.mkv
+│   ├── 📄 Mr. Robot 1x09.mkv
+│   ├── 📄 Mr. Robot 1x10.mkv
+│   └── 📄 Más contenido en www.MegaPeliculasRip.net.url
+├── 📁 PAME RESPALDO UWU/
+│   ├── 📁 mpnp-win-g4010-1_02-ea34_2/
+│   │   ├── 📁 Driver/
+│   │   │   ├── 📄 FAX.CHECKSUM
+│   │   │   ├── 📄 FAXG3.CAB
+│   │   │   ├── 📄 FAXG6.CAB
+│   │   │   ├── 📄 G4010F3.INF
+│   │   │   ├── 📄 G4010F6.INF
+│   │   │   ├── 📄 G4010N.cat
+│   │   │   ├── 📄 G4010N.inf
+│   │   │   ├── 📄 G4010P3.cat
+│   │   │   ├── 📄 G4010P3.inf
+│   │   │   ├── 📄 G4010P6.cat
+│   │   │   ├── 📄 G4010P6.inf
+│   │   │   ├── 📄 G4010SC.INF
+│   │   │   ├── 📄 PRNG3.cab
+│   │   │   ├── 📄 PRNG6.cab
+│   │   │   ├── 📄 PRNT.CHECKSUM
+│   │   │   ├── 📄 PrnCm.cab
+│   │   │   ├── 📄 SCN.CHECKSUM
+│   │   │   ├── 📄 SCN01.cab
+│   │   │   ├── 📄 SCN02.cab
+│   │   │   ├── 📄 g4010f3.cat
+│   │   │   ├── 📄 g4010f6.cat
+│   │   │   └── 📄 g4010s.cat
+│   │   ├── 📁 DrvSetup/
+│   │   │   ├── 📁 RES/
+│   │   │   │   ├── 📁 DLL/
+│   │   │   │   └── 📁 EULA/
+│   │   │   │       ├── 📄 AS_English.txt
+│   │   │   │       ├── 📄 AS_SimplifiedChinese.txt
+│   │   │   │       ├── 📄 AS_TraditionalChinese.txt
+│   │   │   │       ├── 📄 Arabic.txt
+│   │   │   │       ├── 📄 Bulgarian.txt
+│   │   │   │       ├── 📄 Croatian.txt
+│   │   │   │       ├── 📄 Czech.txt
+│   │   │   │       ├── 📄 Danish.txt
+│   │   │   │       ├── 📄 Dutch.txt
+│   │   │   │       ├── 📄 English.txt
+│   │   │   │       ├── 📄 Estonian.txt
+│   │   │   │       ├── 📄 Finnish.txt
+│   │   │   │       ├── 📄 French.txt
+│   │   │   │       ├── 📄 German.txt
+│   │   │   │       ├── 📄 Greek.txt
+│   │   │   │       ├── 📄 Hungarian.txt
+│   │   │   │       ├── 📄 Indonesian.txt
+│   │   │   │       ├── 📄 Italian.txt
+│   │   │   │       ├── 📄 Japanese.txt
+│   │   │   │       ├── 📄 Korean.txt
+│   │   │   │       ├── 📄 Latvian.txt
+│   │   │   │       ├── 📄 Lithuanian.txt
+│   │   │   │       ├── 📄 Norwegian.txt
+│   │   │   │       ├── 📄 Polish.txt
+│   │   │   │       ├── 📄 Portuguese.txt
+│   │   │   │       ├── 📄 Rumanian.txt
+│   │   │   │       ├── 📄 Russian.txt
+│   │   │   │       ├── 📄 SimplifiedChinese.txt
+│   │   │   │       ├── 📄 Slovak.txt
+│   │   │   │       ├── 📄 Slovenian.txt
+│   │   │   │       ├── 📄 Spanish.txt
+│   │   │   │       ├── 📄 Swedish.txt
+│   │   │   │       ├── 📄 Thai.txt
+│   │   │   │       ├── 📄 TraditionalChinese.txt
+│   │   │   │       ├── 📄 Turkish.txt
+│   │   │   │       ├── 📄 Ukrainian.txt
+│   │   │   │       └── 📄 Vietnamese.txt
+│   │   │   ├── 📄 CHECKSUM
+│   │   │   ├── ⚙️ CNWIDCN.ini
+│   │   │   ├── ⚙️ SETUP.ini
+│   │   │   └── 📄 setup.info
+│   │   ├── 📁 IJPAT/
+│   │   │   ├── 📁 res/
+│   │   │   │   ├── 📁 EULA/
+│   │   │   │   │   ├── 📄 AS_English.txt
+│   │   │   │   │   ├── 📄 AS_SimplifiedChinese.txt
+│   │   │   │   │   ├── 📄 AS_TraditionalChinese.txt
+│   │   │   │   │   ├── 📄 EC_Arabic.txt
+│   │   │   │   │   ├── 📄 EC_Bulgarian.txt
+│   │   │   │   │   ├── 📄 EC_Croatian.txt
+│   │   │   │   │   ├── 📄 EC_Czech.txt
+│   │   │   │   │   ├── 📄 EC_Danish.txt
+│   │   │   │   │   ├── 📄 EC_Dutch.txt
+│   │   │   │   │   ├── 📄 EC_Estonian.txt
+│   │   │   │   │   ├── 📄 EC_Finnish.txt
+│   │   │   │   │   ├── 📄 EC_French.txt
+│   │   │   │   │   ├── 📄 EC_German.txt
+│   │   │   │   │   ├── 📄 EC_Greek.txt
+│   │   │   │   │   ├── 📄 EC_Hungarian.txt
+│   │   │   │   │   ├── 📄 EC_Italian.txt
+│   │   │   │   │   ├── 📄 EC_Latvian.txt
+│   │   │   │   │   ├── 📄 EC_Lithuanian.txt
+│   │   │   │   │   ├── 📄 EC_Norwegian.txt
+│   │   │   │   │   ├── 📄 EC_Polish.txt
+│   │   │   │   │   ├── 📄 EC_Portuguese.txt
+│   │   │   │   │   ├── 📄 EC_Romanian.txt
+│   │   │   │   │   ├── 📄 EC_Russian.txt
+│   │   │   │   │   ├── 📄 EC_Slovak.txt
+│   │   │   │   │   ├── 📄 EC_Slovenian.txt
+│   │   │   │   │   ├── 📄 EC_Spanish.txt
+│   │   │   │   │   ├── 📄 EC_Swedish.txt
+│   │   │   │   │   ├── 📄 EC_Turkish.txt
+│   │   │   │   │   ├── 📄 EC_Ukrainian.txt
+│   │   │   │   │   ├── 📄 JP_Japanese.txt
+│   │   │   │   │   ├── 📄 US_English.txt
+│   │   │   │   │   ├── 📄 US_Indonesian.txt
+│   │   │   │   │   ├── 📄 US_Korean.txt
+│   │   │   │   │   ├── 📄 US_SimplifiedChinese.txt
+│   │   │   │   │   ├── 📄 US_Thai.txt
+│   │   │   │   │   ├── 📄 US_TraditionalChinese.txt
+│   │   │   │   │   └── 📄 US_Vietnamese.txt
+│   │   │   │   └── 📁 STRING/
+│   │   │   │       ├── ⚙️ AS_English.ini
+│   │   │   │       ├── ⚙️ AS_SimplifiedChinese.ini
+│   │   │   │       ├── ⚙️ AS_TraditionalChinese.ini
+│   │   │   │       ├── ⚙️ EC_Arabic.ini
+│   │   │   │       ├── ⚙️ EC_Bulgarian.ini
+│   │   │   │       ├── ⚙️ EC_Croatian.ini
+│   │   │   │       ├── ⚙️ EC_Czech.ini
+│   │   │   │       ├── ⚙️ EC_Danish.ini
+│   │   │   │       ├── ⚙️ EC_Dutch.ini
+│   │   │   │       ├── ⚙️ EC_Estonian.ini
+│   │   │   │       ├── ⚙️ EC_Finnish.ini
+│   │   │   │       ├── ⚙️ EC_French.ini
+│   │   │   │       ├── ⚙️ EC_German.ini
+│   │   │   │       ├── ⚙️ EC_Greek.ini
+│   │   │   │       ├── ⚙️ EC_Hungarian.ini
+│   │   │   │       ├── ⚙️ EC_Italian.ini
+│   │   │   │       ├── ⚙️ EC_Latvian.ini
+│   │   │   │       ├── ⚙️ EC_Lithuanian.ini
+│   │   │   │       ├── ⚙️ EC_Norwegian.ini
+│   │   │   │       ├── ⚙️ EC_Polish.ini
+│   │   │   │       ├── ⚙️ EC_Portuguese.ini
+│   │   │   │       ├── ⚙️ EC_Romanian.ini
+│   │   │   │       ├── ⚙️ EC_Russian.ini
+│   │   │   │       ├── ⚙️ EC_Slovak.ini
+│   │   │   │       ├── ⚙️ EC_Slovenian.ini
+│   │   │   │       ├── ⚙️ EC_Spanish.ini
+│   │   │   │       ├── ⚙️ EC_Swedish.ini
+│   │   │   │       ├── ⚙️ EC_Turkish.ini
+│   │   │   │       ├── ⚙️ EC_Ukrainian.ini
+│   │   │   │       ├── ⚙️ JP_Japanese.ini
+│   │   │   │       ├── ⚙️ US_English.ini
+│   │   │   │       ├── ⚙️ US_Indonesian.ini
+│   │   │   │       ├── ⚙️ US_Korean.ini
+│   │   │   │       ├── ⚙️ US_SimplifiedChinese.ini
+│   │   │   │       ├── ⚙️ US_Thai.ini
+│   │   │   │       ├── ⚙️ US_TraditionalChinese.ini
+│   │   │   │       └── ⚙️ US_Vietnamese.ini
+│   │   │   ├── 📄 Data1.cab
+│   │   │   ├── 📄 Data2.cab
+│   │   │   ├── 📄 Data3.cab
+│   │   │   ├── 📄 PAT.CHECKSUM
+│   │   │   └── ⚙️ Setup.ini
+│   │   ├── 📁 LANUTIL/
+│   │   │   └── 📁 SELECTOR/
+│   │   │       ├── 📁 Res/
+│   │   │       │   └── 📁 EULA/
+│   │   │       │       ├── 📄 EC_Arabic.txt
+│   │   │       │       ├── 📄 EC_Bulgarian.txt
+│   │   │       │       ├── 📄 EC_Croatian.txt
+│   │   │       │       ├── 📄 EC_Czech.txt
+│   │   │       │       ├── 📄 EC_Danish.txt
+│   │   │       │       ├── 📄 EC_Dutch.txt
+│   │   │       │       ├── 📄 EC_Estonian.txt
+│   │   │       │       ├── 📄 EC_Finnish.txt
+│   │   │       │       ├── 📄 EC_French.txt
+│   │   │       │       ├── 📄 EC_German.txt
+│   │   │       │       ├── 📄 EC_Greek.txt
+│   │   │       │       ├── 📄 EC_Hungarian.txt
+│   │   │       │       ├── 📄 EC_Italian.txt
+│   │   │       │       ├── 📄 EC_Latvian.txt
+│   │   │       │       ├── 📄 EC_Lithuanian.txt
+│   │   │       │       ├── 📄 EC_Norwegian.txt
+│   │   │       │       ├── 📄 EC_Polish.txt
+│   │   │       │       ├── 📄 EC_Portuguese.txt
+│   │   │       │       ├── 📄 EC_Romanian.txt
+│   │   │       │       ├── 📄 EC_Russian.txt
+│   │   │       │       ├── 📄 EC_Slovak.txt
+│   │   │       │       ├── 📄 EC_Slovenian.txt
+│   │   │       │       ├── 📄 EC_Spanish.txt
+│   │   │       │       ├── 📄 EC_Swedish.txt
+│   │   │       │       ├── 📄 EC_Turkish.txt
+│   │   │       │       ├── 📄 EC_Ukrainian.txt
+│   │   │       │       ├── 📄 JP_Japanese.txt
+│   │   │       │       ├── 📄 US_English.txt
+│   │   │       │       ├── 📄 US_Indonesian.txt
+│   │   │       │       ├── 📄 US_Korean.txt
+│   │   │       │       ├── 📄 US_SimplifiedChinese.txt
+│   │   │       │       ├── 📄 US_Thai.txt
+│   │   │       │       ├── 📄 US_TraditionalChinese.txt
+│   │   │       │       └── 📄 US_Vietnamese.txt
+│   │   │       ├── 📄 CHECKSUM
+│   │   │       ├── 📄 DATA1.cab
+│   │   │       ├── 📄 DATA2.cab
+│   │   │       └── ⚙️ SETUP.ini
+│   │   ├── 📁 README/
+│   │   │   ├── 📄 CHECKSUM
+│   │   │   └── 📄 Version.txt
+│   │   └── 📁 SCNUTIL/
+│   │       ├── 📁 ScanUtility/
+│   │       │   ├── 📁 Res/
+│   │       │   │   └── 📁 EULA/
+│   │       │   │       ├── 📄 EC_Arabic.txt
+│   │       │   │       ├── 📄 EC_Bulgarian.txt
+│   │       │   │       ├── 📄 EC_Croatian.txt
+│   │       │   │       ├── 📄 EC_Czech.txt
+│   │       │   │       ├── 📄 EC_Danish.txt
+│   │       │   │       ├── 📄 EC_Dutch.txt
+│   │       │   │       ├── 📄 EC_Estonian.txt
+│   │       │   │       ├── 📄 EC_Finnish.txt
+│   │       │   │       ├── 📄 EC_French.txt
+│   │       │   │       ├── 📄 EC_German.txt
+│   │       │   │       ├── 📄 EC_Greek.txt
+│   │       │   │       ├── 📄 EC_Hungarian.txt
+│   │       │   │       ├── 📄 EC_Italian.txt
+│   │       │   │       ├── 📄 EC_Latvian.txt
+│   │       │   │       ├── 📄 EC_Lithuanian.txt
+│   │       │   │       ├── 📄 EC_Norwegian.txt
+│   │       │   │       ├── 📄 EC_Polish.txt
+│   │       │   │       ├── 📄 EC_Portuguese.txt
+│   │       │   │       ├── 📄 EC_Romanian.txt
+│   │       │   │       ├── 📄 EC_Russian.txt
+│   │       │   │       ├── 📄 EC_Slovak.txt
+│   │       │   │       ├── 📄 EC_Slovenian.txt
+│   │       │   │       ├── 📄 EC_Spanish.txt
+│   │       │   │       ├── 📄 EC_Swedish.txt
+│   │       │   │       ├── 📄 EC_Turkish.txt
+│   │       │   │       ├── 📄 EC_Ukrainian.txt
+│   │       │   │       ├── 📄 JP_Japanese.txt
+│   │       │   │       ├── 📄 US_English.txt
+│   │       │   │       ├── 📄 US_Indonesian.txt
+│   │       │   │       ├── 📄 US_Korean.txt
+│   │       │   │       ├── 📄 US_SimplifiedChinese.txt
+│   │       │   │       ├── 📄 US_Thai.txt
+│   │       │   │       ├── 📄 US_TraditionalChinese.txt
+│   │       │   │       └── 📄 US_Vietnamese.txt
+│   │       │   ├── 📁 SetEvent/
+│   │       │   ├── 📄 CHECKSUM
+│   │       │   ├── 📄 DATA1.cab
+│   │       │   ├── 📄 DATA2.cab
+│   │       │   ├── 📄 DATA3.cab
+│   │       │   └── ⚙️ SETUP.ini
+│   │       └── 📁 Twain/
+│   │           ├── ⚙️ SETUP01.ini
+│   │           ├── ⚙️ SETUP02.ini
+│   │           ├── 📄 TWAIN01.CHECKSUM
+│   │           ├── 📄 TWAIN01.cab
+│   │           ├── 📄 TWAIN02.CHECKSUM
+│   │           └── 📄 TWAIN02.cab
+│   ├── 📁 win-g4010-1_3-n_mcd/
+│   │   ├── 📁 win/
+│   │   │   ├── 📁 CDC/
+│   │   │   │   ├── 📰 CD-1801-000129_win_cd.xml
+│   │   │   │   └── 📄 CHECKSUM
+│   │   │   ├── 📁 CDM/
+│   │   │   ├── 📁 DIALUTIL/
+│   │   │   ├── 📁 Driver/
+│   │   │   ├── 📁 EGV/
+│   │   │   ├── 📁 EISREG/
+│   │   │   ├── 📁 EPPED/
+│   │   │   ├── 📁 EWPEX/
+│   │   │   ├── 📁 FLP/
+│   │   │   ├── 📁 HAE_/
+│   │   │   ├── 📁 IJPLM/
+│   │   │   ├── 📁 LIB/
+│   │   │   │   ├── 📁 PrinterHeadAlignment/
+│   │   │   │   ├── 📁 WEBREG/
+│   │   │   │   │   └── ⚙️ smenu.ini
+│   │   │   │   ├── 📁 x64/
+│   │   │   │   ├── 📁 x86/
+│   │   │   │   └── ⚙️ cnwidcn.ini
+│   │   │   ├── 📁 MIG/
+│   │   │   ├── 📁 MOPlugIn/
+│   │   │   ├── 📁 MYPRINT/
+│   │   │   ├── 📁 NDSU/
+│   │   │   ├── 📁 NWHELP/
+│   │   │   ├── 📁 OCRD/
+│   │   │   ├── 📁 PJS_/
+│   │   │   ├── 📁 PSP/
+│   │   │   ├── 📁 QTBOX/
+│   │   │   ├── 📁 QUICK/
+│   │   │   ├── 📁 RES/
+│   │   │   │   ├── 📁 ANIME/
+│   │   │   │   │   ├── 📰 ProgressAnime.xml
+│   │   │   │   │   ├── 📰 SearchAnime.xml
+│   │   │   │   │   ├── 📄 progress_1.bmp
+│   │   │   │   │   ├── 📄 progress_2.bmp
+│   │   │   │   │   ├── 📄 progress_3.bmp
+│   │   │   │   │   ├── 📄 progress_4.bmp
+│   │   │   │   │   ├── 📄 progress_5.bmp
+│   │   │   │   │   ├── 📄 progress_6.bmp
+│   │   │   │   │   ├── 📄 progress_7.bmp
+│   │   │   │   │   ├── 📄 progress_8.bmp
+│   │   │   │   │   ├── 📄 search_1.bmp
+│   │   │   │   │   ├── 📄 search_2.bmp
+│   │   │   │   │   ├── 📄 search_3.bmp
+│   │   │   │   │   ├── 📄 search_4.bmp
+│   │   │   │   │   └── 📄 search_5.bmp
+│   │   │   │   ├── 📁 Bitmap/
+│   │   │   │   │   ├── 📁 Button/
+│   │   │   │   │   │   ├── 📄 BLUE_LARGE_DISABLE_L.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_LARGE_DISABLE_M.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_LARGE_DISABLE_R.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_LARGE_OFF_L.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_LARGE_OFF_M.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_LARGE_OFF_R.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_LARGE_ONMOUSE_L.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_LARGE_ONMOUSE_M.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_LARGE_ONMOUSE_R.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_LARGE_ON_L.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_LARGE_ON_M.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_LARGE_ON_R.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_MIDDLE_DISABLE_L.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_MIDDLE_DISABLE_M.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_MIDDLE_DISABLE_R.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_MIDDLE_OFF_L.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_MIDDLE_OFF_M.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_MIDDLE_OFF_R.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_MIDDLE_ONMOUSE_L.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_MIDDLE_ONMOUSE_M.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_MIDDLE_ONMOUSE_R.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_MIDDLE_ON_L.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_MIDDLE_ON_M.bmp
+│   │   │   │   │   │   ├── 📄 BLUE_MIDDLE_ON_R.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_LARGE_DISABLE_L.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_LARGE_DISABLE_M.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_LARGE_DISABLE_R.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_LARGE_OFF_L.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_LARGE_OFF_M.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_LARGE_OFF_R.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_LARGE_ONMOUSE_L.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_LARGE_ONMOUSE_M.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_LARGE_ONMOUSE_R.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_LARGE_ON_L.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_LARGE_ON_M.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_LARGE_ON_R.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_MIDDLE_DISABLE_L.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_MIDDLE_DISABLE_M.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_MIDDLE_DISABLE_R.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_MIDDLE_OFF_L.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_MIDDLE_OFF_M.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_MIDDLE_OFF_R.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_MIDDLE_ONMOUSE_L.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_MIDDLE_ONMOUSE_M.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_MIDDLE_ONMOUSE_R.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_MIDDLE_ON_L.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_MIDDLE_ON_M.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_MIDDLE_ON_R.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_SMALL_DISABLE_L.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_SMALL_DISABLE_M.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_SMALL_DISABLE_R.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_SMALL_OFF_L.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_SMALL_OFF_M.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_SMALL_OFF_R.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_SMALL_ONMOUSE_L.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_SMALL_ONMOUSE_M.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_SMALL_ONMOUSE_R.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_SMALL_ON_L.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_SMALL_ON_M.bmp
+│   │   │   │   │   │   ├── 📄 GRAY_SMALL_ON_R.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_LARGE_DISABLE_L.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_LARGE_DISABLE_M.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_LARGE_DISABLE_R.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_LARGE_OFF_L.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_LARGE_OFF_M.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_LARGE_OFF_R.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_LARGE_ONMOUSE_L.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_LARGE_ONMOUSE_M.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_LARGE_ONMOUSE_R.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_LARGE_ON_L.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_LARGE_ON_M.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_LARGE_ON_R.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_MIDDLE_DISABLE_L.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_MIDDLE_DISABLE_M.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_MIDDLE_DISABLE_R.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_MIDDLE_OFF_L.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_MIDDLE_OFF_M.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_MIDDLE_OFF_R.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_MIDDLE_ONMOUSE_L.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_MIDDLE_ONMOUSE_M.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_MIDDLE_ONMOUSE_R.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_MIDDLE_ON_L.bmp
+│   │   │   │   │   │   ├── 📄 GREEN_MIDDLE_ON_M.bmp
+│   │   │   │   │   │   └── 📄 GREEN_MIDDLE_ON_R.bmp
+│   │   │   │   │   ├── 📄 01.bmp
+│   │   │   │   │   ├── 📄 01_x200.bmp
+│   │   │   │   │   ├── 📄 FOOTER.bmp
+│   │   │   │   │   ├── 📄 HEADER1.bmp
+│   │   │   │   │   ├── 📄 HEADER1_RTL.bmp
+│   │   │   │   │   ├── 📄 HEADER2.bmp
+│   │   │   │   │   ├── 📄 HEADER2_RTL.bmp
+│   │   │   │   │   ├── 📄 HEADER3.bmp
+│   │   │   │   │   ├── 📄 HEADER3_RTL.bmp
+│   │   │   │   │   ├── 📄 HEADER4.bmp
+│   │   │   │   │   ├── 📄 HEADER4_RTL.bmp
+│   │   │   │   │   ├── 📄 IF_Direct.bmp
+│   │   │   │   │   ├── 📄 IF_Direct_Fail.bmp
+│   │   │   │   │   ├── 📄 IF_Direct_Success.bmp
+│   │   │   │   │   ├── 📄 IF_LAN_Fail.bmp
+│   │   │   │   │   ├── 📄 IF_LAN_Success.bmp
+│   │   │   │   │   ├── 📄 IF_USB.bmp
+│   │   │   │   │   ├── 📄 IF_Wired.bmp
+│   │   │   │   │   ├── 📄 IF_Wireless.bmp
+│   │   │   │   │   ├── 📄 NIC_Fail.bmp
+│   │   │   │   │   ├── 📄 PowerOn.bmp
+│   │   │   │   │   ├── 📄 Pull.bmp
+│   │   │   │   │   ├── 📄 Pull_SFS.bmp
+│   │   │   │   │   ├── 📄 SelectWireless_Direct.bmp
+│   │   │   │   │   ├── 📄 SetupComplete.bmp
+│   │   │   │   │   ├── 📄 SetupComplete_SFS.bmp
+│   │   │   │   │   ├── 📄 SmartPhoneGuidance.bmp
+│   │   │   │   │   ├── 📄 WCbtn.bmp
+│   │   │   │   │   ├── 🖼️ canon_cd.ico
+│   │   │   │   │   ├── 📄 iftype_usb.bmp
+│   │   │   │   │   ├── 📄 iftype_wired.bmp
+│   │   │   │   │   └── 📄 iftype_wireless.bmp
+│   │   │   │   ├── 📁 EULA/
+│   │   │   │   │   ├── 📄 AS_English.txt
+│   │   │   │   │   ├── 📄 AS_SimplifiedChinese.txt
+│   │   │   │   │   ├── 📄 AS_TraditionalChinese.txt
+│   │   │   │   │   ├── 📄 Arabic.txt
+│   │   │   │   │   ├── 📄 Bulgarian.txt
+│   │   │   │   │   ├── 📄 Croatian.txt
+│   │   │   │   │   ├── 📄 Czech.txt
+│   │   │   │   │   ├── 📄 Danish.txt
+│   │   │   │   │   ├── 📄 Dutch.txt
+│   │   │   │   │   ├── 📰 EULAInfo.xml
+│   │   │   │   │   ├── 📄 English.txt
+│   │   │   │   │   ├── 📄 Estonian.txt
+│   │   │   │   │   ├── 📄 Finnish.txt
+│   │   │   │   │   ├── 📄 French.txt
+│   │   │   │   │   ├── 📄 German.txt
+│   │   │   │   │   ├── 📄 Greek.txt
+│   │   │   │   │   ├── 📄 Hungarian.txt
+│   │   │   │   │   ├── 📄 Indonesian.txt
+│   │   │   │   │   ├── 📄 Italian.txt
+│   │   │   │   │   ├── 📄 Japanese.txt
+│   │   │   │   │   ├── 📄 Korean.txt
+│   │   │   │   │   ├── 📄 Latvian.txt
+│   │   │   │   │   ├── 📄 Lithuanian.txt
+│   │   │   │   │   ├── 📄 Norwegian.txt
+│   │   │   │   │   ├── 📄 Polish.txt
+│   │   │   │   │   ├── 📄 Portuguese.txt
+│   │   │   │   │   ├── 📄 Rumanian.txt
+│   │   │   │   │   ├── 📄 Russian.txt
+│   │   │   │   │   ├── 📄 SimplifiedChinese.txt
+│   │   │   │   │   ├── 📄 Slovak.txt
+│   │   │   │   │   ├── 📄 Slovenian.txt
+│   │   │   │   │   ├── 📄 Spanish.txt
+│   │   │   │   │   ├── 📄 Swedish.txt
+│   │   │   │   │   ├── 📄 Thai.txt
+│   │   │   │   │   ├── 📄 TraditionalChinese.txt
+│   │   │   │   │   ├── 📄 Turkish.txt
+│   │   │   │   │   ├── 📄 Ukrainian.txt
+│   │   │   │   │   └── 📄 Vietnamese.txt
+│   │   │   │   └── 📁 MESSAGE/
+│   │   │   │       ├── 📁 Arabic/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Bulgarian/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Croatian/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Czech/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Danish/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Dutch/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 English/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Estonian/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Finnish/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 French/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 German/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Greek/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Hungarian/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Indonesian/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Italian/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Japanese/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Korean/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Latvian/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Lithuanian/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Norwegian/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Polish/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Portuguese/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Rumanian/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Russian/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Simplified_Chinese/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Slovak/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Slovenian/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Spanish/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Swedish/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Thai/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Traditional_Chinese/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Turkish/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       ├── 📁 Ukrainian/
+│   │   │   │       │   ├── 📁 AdobeICC/
+│   │   │   │       │   │   └── 📄 license.txt
+│   │   │   │       │   └── ⚙️ Message.ini
+│   │   │   │       └── 📁 Vietnamese/
+│   │   │   │           ├── 📁 AdobeICC/
+│   │   │   │           │   └── 📄 license.txt
+│   │   │   │           └── ⚙️ Message.ini
+│   │   │   ├── 📁 RESM/
+│   │   │   │   ├── 📁 ANIME/
+│   │   │   │   │   ├── 📄 USB01.bmp
+│   │   │   │   │   ├── 📄 USB02.bmp
+│   │   │   │   │   ├── 📄 USB03.bmp
+│   │   │   │   │   ├── 📄 USB04.bmp
+│   │   │   │   │   ├── 📄 USB05.bmp
+│   │   │   │   │   └── 📰 USB_Anime.xml
+│   │   │   │   ├── 📁 Bitmap/
+│   │   │   │   │   └── 📄 Head.bmp
+│   │   │   │   ├── 📁 PROGRESS_ANIME/
+│   │   │   │   │   ├── 📄 Install01.bmp
+│   │   │   │   │   ├── 📄 Install03.bmp
+│   │   │   │   │   ├── 📄 Install06.bmp
+│   │   │   │   │   └── 📰 InstallAnime.xml
+│   │   │   │   └── 📄 CHECKSUM
+│   │   │   ├── 📁 TESTPRN/
+│   │   │   ├── 📁 TUTO/
+│   │   │   ├── 📁 XPS/
+│   │   │   ├── ⚙️ AppSettingData.ini
+│   │   │   ├── ⚙️ Application.ini
+│   │   │   ├── ⚙️ InstallParameter.ini
+│   │   │   ├── ⚙️ Language.ini
+│   │   │   └── ⚙️ msetup4.ini
+│   │   ├── 📄 AUTORUN.INF
+│   │   ├── 📄 CHECKSUM
+│   │   └── 📄 MSETUP.checksum
+│   ├── 🖼️ 1.png
+│   ├── 🖼️ 2.png
+│   ├── 📕 3_Segundo_ciclo.pdf
+│   ├── 📕 562-Texto del artículo-2266-1-10-20160327.pdf
+│   ├── 📕 620.pdf
+│   ├── 📕 Actitudes-de-Autocuidado-para-Prevenir-Riesgos.pdf
+│   ├── 📘 Aplicación de contenidos del módulo - Pamela Muñoz, Alejandra Peirano y María de los Ángeles Ruíz.docx
+│   ├── 📕 Aprendizaje socioemocional.pdf
+│   ├── 📕 Apuntes_Educacion_y_Desarrollo_Post2015-1.pdf
+│   ├── 📕 BCN__marco_legal_convivencia_escolar_Chile__Final.pdf
+│   ├── 📘 BITÁCORA DESREGULACIÓN EMOCIONAL Y CONDUCTUAL (DEC)(1).docx
+│   ├── 📕 CERTIFICADO_INSTITUCION.pdf
+│   ├── 📕 COMPETENCIAS.pdf
+│   ├── 📘 COMUNICACIÓN.docx
+│   ├── 📕 Certificación Muñoz, P.pdf
+│   ├── 📕 Certificado institución.pdf
+│   ├── 📕 Certificado título.pdf
+│   ├── 📕 Certificado_Curso_Primeros_Auxilios_Psicolgicos_Profundizacin_en_nios_nias_y_adolescentes.pdf
+│   ├── 📕 Certificado_Curso_Resolucin_de_problemas_y_manejo_de_conflictos_en_el_mbito_laboral.pdf
+│   ├── 📕 Competencias_profesionales_del_psicologo_educacion.pdf
+│   ├── 📕 Consulta_inhabilidades.pdf
+│   ├── 📕 Copia de título ante notario.pdf
+│   ├── 📊 Cronogama Práctica Profesional.xlsx
+│   ├── 📕 Cuadernillo actividades.pdf
+│   ├── 📘 Curriculum Pamela Muñoz Cortés.docx
+│   ├── 📘 Curso Primeros Auxilios Psicologicos.docx
+│   ├── 📘 Curso SENDA.docx
+│   ├── 📕 Dialnet-LaInvestigacionBasadaEnLasArtesComoEspacioDeAprend-8722466.pdf
+│   ├── 📄 Documentos - Acceso directo.lnk
+│   ├── 📘 Ejercicio sensorial.docx
+│   ├── 📕 Enfoque escuela total.pdf
+│   ├── 📕 Etapa niñez.pdf
+│   ├── 📕 Gráfica modelo canvas formal imprimible verde.pdf
+│   ├── 📘 Horario Psicologa Pamela Muñoz.docx
+│   ├── 📄 IMG_7145.heic
+│   ├── 🖼️ Imagenosocorazon.png
+│   ├── 📘 Informe 1° taller delegados de Convivencia. (1).docx
+│   ├── 📕 Informe Práctica Profesional Muñoz, P.docx.pdf
+│   ├── 📕 Informe de Practica Profesional, actividad de titulación, Muñoz, P.pdf
+│   ├── 📕 Informe devolución Colegio María Reina Iquique.docx.pdf
+│   ├── 📕 Jornada-Set-aprendizaje-socioemocional-LB.pdf
+│   ├── 📘 Links.docx
+│   ├── 📕 Lista de asistencia Practica Profesional Muñoz, P.pdf
+│   ├── 📕 M4L1.pdf
+│   ├── 📕 M4L2.pdf
+│   ├── 📕 Marco para la buena enseñanza.pdf
+│   ├── 📕 Material primera sesión.pdf
+│   ├── 📕 Materiales para la contención y desarrollo socioemocional.pdf
+│   ├── 📕 Modulo 3 Lección 1.pdf
+│   ├── 📕 Modulo 3 Lección 2.pdf
+│   ├── 📕 Módulo 1 - Protocolos de desregulación y planes de acompañamiento emocional y conductual en contextos educativos.pdf
+│   ├── 📘 NAPSIS sesiones.docx
+│   ├── 🖼️ Niños Oleo.png
+│   ├── 📕 Ola mi amorcito.pdf
+│   ├── 📘 PPP Pamela Muñoz(1).docx
+│   ├── 📕 PPT - Primeros Auxilios Psicológicos Profundización en niños, niñas y adolescentes.pdf
+│   ├── 📕 Plan-Juntos-Chile-se-recupera-y-aprende-29.12.2021.pdf
+│   ├── 📕 Proyecto Práctica Pamela Muñoz.pdf
+│   ├── 📘 Registro diagnostico en aula.docx
+│   ├── 📘 SEGUNDO PLAN 4 BÁSICO 2023-2.docx
+│   ├── 📘 Silabario material.docx
+│   ├── 📘 Taller Nº 1 delegados de Convivencia Escolar.docx
+│   ├── 📕 Taller autobiografía..pdf
+│   ├── 📄 Taller manejo de emociones y resolución de conflictos.pptx
+│   ├── 📘 Tarea 05.06.23(1).docx
+│   ├── 📕 USADO.pdf
+│   ├── 🖼️ Vision board 2024.png
+│   ├── 📕 certificado Muñoz, P.pdf
+│   ├── 📕 cuaderno2-de-estimulacion-cognitiva.pdf
+│   ├── 📕 herramienta-rema-1.-incorporando-las-emociones-en-el-aula-2.pdf
+│   └── 🖼️ png-transparent-psi-greek-alphabet-graphy-psichology-photography-psi-symbol.pnga.png
+├── 📁 Pdfs/
+│   ├── 📕 Codigo limpio - Robert C. Martin.pdf
+│   ├── 📕 Los-origenes-de-la-informatica.pdf
+│   └── 📕 Maquinaria-Computadora-e-Inteligencia.pdf
+├── 📁 Personal/
+│   ├── 🖼️ 228051927_10227220361281867_3177547316658083121_n.jpg
+│   ├── 🖼️ 360ff5e5-1a28-43d3-97f9-0700b0385d66.jpg
+│   ├── 📘 Hola bonito.docx
+│   ├── 📕 JUSTIFICATIVO PLEVICITO.pdf
+│   ├── 📕 cartola_cmcm.pdf
+│   ├── 📕 cmcm_ci.pdf
+│   └── 📕 pamc_ci.pdf
+├── 📁 U respaldar/
+│   ├── 📁 Codigos C - cmcm/
+│   │   ├── 📁 control mas pivotes estudiar/
+│   │   │   ├── 📄 36 asistencia alumnos lista.c
+│   │   │   ├── 📄 Agenda pivote.c
+│   │   │   ├── 📄 Agenda pivote.c~
+│   │   │   ├── 📄 busqueda con pivote.c
+│   │   │   ├── 📄 control 4 ordenado pivote tienda.c
+│   │   │   ├── 📄 control 5  informe censo comunas.c
+│   │   │   ├── 📕 ejecicio 1.pdf
+│   │   │   ├── 📄 ejecicio1 informe con empleados que ganan mas.c
+│   │   │   ├── 📄 ejecicio1.c
+│   │   │   ├── 📄 ejecicio1v2.c
+│   │   │   ├── 📕 ejerccio 36.pdf
+│   │   │   ├── 📕 ejercicio 2.pdf
+│   │   │   ├── 📄 ejercicio de futbol paso 1.c
+│   │   │   ├── 📄 ejercicio de futbol paso 2.c
+│   │   │   ├── 📄 ejercicio de futbol paso 3.c
+│   │   │   ├── 📄 ejercicio de futbol paso 4.c
+│   │   │   ├── 📄 ejercicio de futbol paso 5.c
+│   │   │   ├── 📕 ejercicio de futbol.pdf
+│   │   │   ├── 📕 ejercicios.pdf
+│   │   │   ├── 📕 guia de manejo de string.pdf
+│   │   │   ├── 📄 lista de jovenes y viejos.c
+│   │   │   ├── 📄 lista de suedo mujer hombre y hombre que ganan mas.c
+│   │   │   ├── 📄 listado de las 5 mejores notas.c
+│   │   │   ├── 📄 listado de las 5 mejores notas.c~
+│   │   │   ├── 📕 manejo de caracteres.pdf
+│   │   │   ├── 📄 seudo Algoritmo Verifica rut.txt
+│   │   │   └── 📄 seudo Algoritmo2 prueba lista jovenes y viejos.txt
+│   │   ├── 📁 puntero/
+│   │   │   ├── 📄 PUNTEROOO.c
+│   │   │   ├── 📄 aporte araya.c
+│   │   │   ├── 📄 eliminar lista ordenada.c
+│   │   │   ├── 📄 importantismio.c
+│   │   │   ├── 📄 lista ordenada con liberación de memoria.c
+│   │   │   ├── 📄 lista ordenada.c
+│   │   │   ├── 📄 menu copito puntero.c
+│   │   │   ├── 📄 promedio usando punteros.c
+│   │   │   ├── 📄 puntero 2 doble con eliminacion.c
+│   │   │   └── 📄 puntero doble.c
+│   │   ├── 📁 zzz/
+│   │   │   ├── 📄 Agenda_con_eliminacion.c
+│   │   │   ├── 📄 agenda con apellidos repetidos.c
+│   │   │   ├── 📄 control 6 goles pais.c
+│   │   │   └── 📄 major nota.c
+│   │   ├── 📄 Ejercicio caracteres.c
+│   │   ├── 📄 control
+│   │   ├── 📄 control 4.c
+│   │   ├── 📄 control4.c
+│   │   ├── 📄 ejercicio string.c
+│   │   ├── 📄 p2.c
+│   │   └── 📄 segundaprueba.c
+│   ├── 📕 Enlances.pdf
+│   ├── 📕 INFORMATIVO 002.2023 inicio matricula alumnos antiguos.pdf
+│   ├── 📕 Informe PEP-1.pdf
+│   └── 📕 Laboratorio 1.pdf
+├── 📁 archivos/
+│   ├── 📁 informe pame/
+│   │   ├── 📘 Avance.docx
+│   │   ├── 📘 Informe de Practica Profesional, actividad de titulación, Muñoz, P.docx
+│   │   ├── 📕 Informe de Practica Profesional, actividad de titulación, Muñoz, P.pdf
+│   │   └── 📕 VER 2 Informe de Practica Profesional, actividad de titulación, Muñoz, P[1].pdf
+│   ├── 🐍 1. Capturar.py
+│   ├── 📄 CHARLA 420.txt
+│   ├── 📕 Certificado redes.pdf
+│   ├── 📕 Christian Caceres Marin (1) (1).pdf
+│   ├── 📘 Correcion-Informe_Practica2_Diego_Berrios.docx
+│   ├── 📕 Creación de Modelos de Negocio de éxito basados en Inteligencia Artificial Utiliza Machine Learning y Deep Learning para hacer... (Bert Langa) (Z-Library).pdf
+│   ├── 📘 Curriculum Pamela Muñoz Cortés.docx
+│   ├── 📘 Formato.Anteproyecto.AT2021.ICCI_CHRISTIANCACERESMARIN.doc
+│   ├── 📕 Formato.Anteproyecto.AT2021.ICCI_CHRISTIANCACERESMARIN.pdf
+│   ├── 📘 Informe Practica 2 Christian Marcelo Caceres Marin.docx
+│   ├── 📕 Informe Practica 2 Christian Marcelo Caceres Marin.docx.pdf
+│   ├── 📕 Informe_Practica2_CFritis.pdf
+│   ├── 📘 Nuevo Documento de Microsoft Word.docx
+│   ├── 📖 README.md
+│   └── 📕 diploma redes.pdf
+├── 📁 trainers/
+│   └── 📦 re4_tweaks1.9.1-101-1-9-1-1679477554.zip
+├── 🖼️ 71762963-95cc-48a4-b892-46ad6513650f.jpg
+├── 📄 BD ZOO.txt
+├── 🎬 Bluey_1x12[supervideo.cc].mp4
+├── 📄 GIT - AYUDITA.txt
+├── 📘 Informe de Practica Profesional, actividad de titulación, Muñoz, P.docx
+├── 🖼️ MODELO ER.jpg
+├── 🖼️ ToroAlan.png
+├── 🖼️ ToroCopo.png
+├── 🖼️ alan1.jpg
+├── 🖼️ alan2.jpg
+├── 🌐 bookmarks_4_2_23.html
+├── 📄 wow.txt
+└── 🖼️ yoypame.jpg
+
+══════════════════════════════════════════════════
+  Generado por File Structure Reader
+══════════════════════════════════════════════════
