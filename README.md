@@ -1,4 +1,4 @@
-# 🗂️ File Structure Reader v2.0
+# 🗂️ Pudu - File Structure Reader
 
 Genera árboles ASCII de la estructura de archivos de cualquier proyecto.
 
